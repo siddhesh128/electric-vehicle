@@ -105,7 +105,7 @@ export default function Importance() {
           >
             <div className="relative w-full max-w-md aspect-square rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=500&width=500"
+                src="/rover1.jpeg?height=500&width=500"
                 alt="Industrial transportation"
                 fill
                 className="object-cover"

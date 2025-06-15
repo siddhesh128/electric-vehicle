@@ -12,6 +12,7 @@ import Team from "@/components/team"
 import Contact from "@/components/contact"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
+import Chatbot from "@/components/chatbot"
 
 export default function Home() {
   // Add state to track if the component is mounted
@@ -40,6 +41,7 @@ export default function Home() {
       <Team />
       <Contact />
       <Footer />
+      <Chatbot />
     </main>
   )
 }

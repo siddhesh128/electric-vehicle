@@ -28,47 +28,47 @@ export default function Team() {
 
   const teamMembers = [
     {
-      name: "Alex Johnson",
-      role: "Project Lead",
+      name: "Siddhesh Jadhav",
+      role: "Project Member",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "Mechanical engineering specialist with expertise in transport systems",
+      bio: "E&TC Engineering student specializing in embedded systems and IoT integration for industrial applications",
       social: {
         github: "#",
         linkedin: "#",
-        email: "alex@example.com",
+        email: "siddheshj039@gmail.com",
       },
     },
     {
-      name: "Sarah Chen",
-      role: "Electrical Engineer",
+      name: "Shantanu Agarkar",
+      role: "Project Member",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "Power systems expert focused on overhead line technology",
+      bio: "E&TC Engineering student focused on power electronics and electrical systems for overhead powerlink technology",
       social: {
         github: "#",
         linkedin: "#",
-        email: "sarah@example.com",
+        email: "shantanu.agarkar@example.com",
       },
     },
     {
-      name: "Michael Rodriguez",
-      role: "Software Developer",
+      name: "Sourabh Vishwakarma",
+      role: "Project Member",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "AI and machine learning specialist for autonomous systems",
+      bio: "E&TC Engineering student with interests in automation, control systems, and machine learning applications",
       social: {
         github: "#",
         linkedin: "#",
-        email: "michael@example.com",
+        email: "sourabh.vishwakarma@example.com",
       },
     },
     {
-      name: "Priya Patel",
-      role: "Systems Integrator",
+      name: "Prof. A.V. Nimkar",
+      role: "Project Guide",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "Expert in combining mechanical, electrical, and software systems",
+      bio: "Provided invaluable guidance in project planning, technical direction, and helped us navigate challenges throughout the development process",
       social: {
         github: "#",
         linkedin: "#",
-        email: "priya@example.com",
+        email: "av.nimkar@jspm.edu.in",
       },
     },
   ]

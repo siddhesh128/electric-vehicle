@@ -32,7 +32,7 @@ export default function Technology() {
         "Intelligent power management system to optimize energy usage",
         "Seamless integration with existing industrial infrastructure",
       ],
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/overhead.jpeg?height=400&width=600",
     },
     {
       id: "pantograph",
@@ -46,7 +46,7 @@ export default function Technology() {
         "Quick-disconnect safety features for emergency situations",
         "Wear-resistant contact materials for extended operational life",
       ],
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/powerlink.jpeg?height=400&width=600",
     },
     {
       id: "vehicle",
@@ -60,7 +60,7 @@ export default function Technology() {
         "Advanced thermal management for optimal battery and motor performance",
         "Ergonomic cabin design with enhanced visibility and operator comfort",
       ],
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/rover1.jpeg?height=400&width=600",
     },
     {
       id: "ai",
@@ -74,7 +74,7 @@ export default function Technology() {
         "Autonomous driving capabilities with obstacle detection and avoidance",
         "Fleet management system for coordinated operation of multiple vehicles",
       ],
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/blynk.jpeg?height=400&width=600",
     },
   ]
 

@@ -71,22 +71,22 @@ export default function Gallery() {
 
   const galleryImages = [
     {
-      src: "/placeholder.svg?height=400&width=600",
+      src: "/rover1.jpeg?height=800&width=600",
       alt: "Transport vehicle front view",
       caption: "Front view of the transport vehicle with pantograph",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
+      src: "/powerlink.jpeg?height=400&width=600",
       alt: "Overhead powerlink system",
       caption: "Overhead powerlink system installation",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
+      src: "/overhead.jpeg?height=400&width=600",
       alt: "Battery pack",
       caption: "Rechargeable battery pack for off-grid operation",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
+      src: "/blynk.jpeg?height=400&width=600",
       alt: "Control system",
       caption: "Advanced control system with AI capabilities",
     },
